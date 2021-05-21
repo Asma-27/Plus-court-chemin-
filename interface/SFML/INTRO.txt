@@ -1,0 +1,14 @@
+Coucou, coucou,
+ 
+Notre petit robot, 
+
+Est perdu dans un lot, 
+
+Et pour sortir le plus tôt, 
+
+Vous pouvez l’aider pour qu’il ne soit pas solo, 
+
+Par le choix de nombre d’obstacles, lignes et colonnes de ce lot,  
+Puis par notre magie le robot, 
+Arrivera à son boulot, 
+Sans toucher  les sabots. 

@@ -1,0 +1,12 @@
+﻿  farah.cpp
+C:\Users\USER\Desktop\projet\code source\farah\farah.cpp(228,9): warning C4101: 'a' : variable locale non référencée
+C:\Users\USER\Desktop\projet\code source\farah\farah.cpp(229,12): warning C4101: 'j1' : variable locale non référencée
+C:\Users\USER\Desktop\projet\code source\farah\farah.cpp(228,12): warning C4101: 'b' : variable locale non référencée
+C:\Users\USER\Desktop\projet\code source\farah\farah.cpp(229,9): warning C4101: 'j' : variable locale non référencée
+C:\Users\USER\Desktop\projet\code source\farah\farah.cpp(227,9): warning C4101: 'i' : variable locale non référencée
+C:\Users\USER\Desktop\projet\code source\farah\farah.cpp(227,12): warning C4101: 'i1' : variable locale non référencée
+C:\Users\USER\Desktop\projet\code source\farah\farah.cpp(361,9): warning C4101: 'a' : variable locale non référencée
+C:\Users\USER\Desktop\projet\code source\farah\farah.cpp(362,9): warning C4101: 'b' : variable locale non référencée
+C:\Users\USER\Desktop\projet\code source\farah\farah.cpp(380,9): warning C4101: 'a' : variable locale non référencée
+C:\Users\USER\Desktop\projet\code source\farah\farah.cpp(380,12): warning C4101: 'b' : variable locale non référencée
+  farah.vcxproj -> C:\Users\USER\Desktop\projet\code source\Debug\farah.exe
